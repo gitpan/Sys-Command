@@ -1,4 +1,4 @@
-0.02 (2011-04-20)
+0.02 (2011-06-06)
 
     API Changes:
         - N/A
@@ -10,8 +10,8 @@
         - N/A
 
     Bug Fixes:
-        - N/A
+        - Fixed README and Sys::Command::Process Documentation errors.
 
-0.01 (2011-04-20)
+0.01 (2011-06-06)
 
     Initial Release
