@@ -26,8 +26,9 @@ requires:
   IPC::Open3: 0
   Log::Any: 0
   Moo: 0
+  Sub::Exporter: 0
   perl: 5.6.0
 resources:
   license: http://dev.perl.org/licenses/
-  repository: http://github.com/mlawren/ipc-command.git/
-version: 0.02
+  repository: http://github.com/mlawren/sys-command.git/
+version: 0.03
