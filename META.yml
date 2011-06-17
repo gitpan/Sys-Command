@@ -22,6 +22,7 @@ no_index:
 requires:
   Carp: 0
   Cwd: 0
+  File::Which: 0
   IO::Handle: 0
   IPC::Open3: 0
   Log::Any: 0
@@ -31,4 +32,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/mlawren/sys-command.git/
-version: 0.04_1
+version: 0.04_2
